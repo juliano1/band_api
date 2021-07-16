@@ -26,3 +26,4 @@ Things you may want to cover:
     * rails g model Member name:string band:references
     * bundle add active_model_serializers
     * rails generate serializer band
+    * rails generate serializer Member
