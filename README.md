@@ -22,5 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * Steps
-* rails g scaffold Band name:string
-* rails g model Member name:string band:references
+    * rails g scaffold Band name:string
+    * rails g model Member name:string band:references
+    * bundle add active_model_serializers
+    * rails generate serializer band
