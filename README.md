@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Steps
+* rails g scaffold Band name:string
+* rails g model Member name:string band:references
